@@ -10,6 +10,9 @@ Static SEO site for `cryptofreerebate.com`.
 - `/bitget-fee-rebate/`
 - `/bitmart-fee-rebate/`
 - `/tools/fee-calculator/`
+- `/best-crypto-fee-rebate/`
+- `/crypto-referral-code/`
+- `/exchange-fee-comparison/`
 - `/blog/reduce-crypto-trading-fees/`
 - `/privacy-policy/`
 
