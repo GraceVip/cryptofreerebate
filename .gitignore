@@ -1,0 +1,6 @@
+.DS_Store
+.README.md.swo
+.idea/
+.agents/
+skills-lock.json
+*.zip
