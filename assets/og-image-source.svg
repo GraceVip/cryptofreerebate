@@ -2,8 +2,8 @@
   <rect width="1200" height="630" fill="#f6f8fa"/>
   <rect width="1200" height="132" fill="#101413"/>
   <text x="72" y="88" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="800">Crypto Free Rebate</text>
-  <text x="72" y="208" fill="#15202b" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="800">CEX registration fee discounts</text>
-  <text x="76" y="276" fill="#5d6b78" font-family="Inter, Arial, sans-serif" font-size="25">Check fee discount notes, KYC rules, and supported regions.</text>
+  <text x="72" y="208" fill="#15202b" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="800">CEX registration fee cuts</text>
+  <text x="76" y="276" fill="#5d6b78" font-family="Inter, Arial, sans-serif" font-size="25">Crypto, on-chain assets, U.S. stocks where supported.</text>
   <g transform="translate(76 382)">
     <rect width="238" height="132" rx="8" fill="#ffffff" stroke="#d7e0e7"/>
     <rect width="238" height="10" fill="#f0b90b"/>
