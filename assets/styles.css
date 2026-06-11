@@ -91,20 +91,43 @@ a {
   display: grid;
   align-items: center;
   padding: clamp(80px, 11vw, 150px) clamp(20px, 6vw, 86px) clamp(70px, 9vw, 120px);
-  background-image: url("/assets/hero-dashboard.png");
+  background:
+    radial-gradient(circle at 78% 18%, rgba(159, 241, 212, 0.22), transparent 30%),
+    radial-gradient(circle at 90% 78%, rgba(185, 133, 33, 0.16), transparent 26%),
+    linear-gradient(135deg, #061926 0%, #0f3d5e 46%, #0d6659 100%);
   background-size: cover;
   background-position: center;
   overflow: hidden;
 }
 
+.image-hero::before {
+  content: "";
+  position: absolute;
+  right: clamp(-220px, -8vw, -80px);
+  top: 13%;
+  z-index: 0;
+  width: min(58vw, 820px);
+  height: min(58vh, 520px);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: 18px;
+  background:
+    linear-gradient(rgba(255, 255, 255, 0.1) 1px, transparent 1px) 0 0 / 100% 64px,
+    linear-gradient(90deg, rgba(255, 255, 255, 0.08) 1px, transparent 1px) 0 0 / 92px 100%,
+    linear-gradient(135deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.05));
+  box-shadow: 0 34px 90px rgba(0, 0, 0, 0.22);
+  transform: rotate(-1.5deg);
+}
+
 .hero-overlay {
   position: absolute;
   inset: 0;
+  z-index: 1;
   background: linear-gradient(90deg, rgba(8, 25, 38, 0.82), rgba(8, 25, 38, 0.54));
 }
 
 .hero-content {
   position: relative;
+  z-index: 2;
   max-width: 780px;
   color: #fff;
 }
@@ -700,6 +723,14 @@ input {
   .image-hero {
     min-height: 72vh;
     background-position: 58% center;
+  }
+
+  .image-hero::before {
+    right: -44%;
+    top: 22%;
+    width: 86vw;
+    height: 42vh;
+    opacity: 0.34;
   }
 
   .feature-grid,

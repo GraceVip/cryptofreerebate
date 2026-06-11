@@ -4,7 +4,7 @@ Static SEO site for `cryptofreerebate.com`.
 
 ## Pages
 
-- `/` stock and crypto offer comparison home
+- `/` crypto exchange registration fee discount home
 - `/binance-fee-rebate/`
 - `/okx-fee-rebate/`
 - `/bitget-fee-rebate/`

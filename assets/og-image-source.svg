@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f6f8fa"/>
+  <rect width="1200" height="132" fill="#101413"/>
+  <text x="72" y="88" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="800">Crypto Free Rebate</text>
+  <text x="72" y="208" fill="#15202b" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="800">CEX registration fee discounts</text>
+  <text x="76" y="276" fill="#5d6b78" font-family="Inter, Arial, sans-serif" font-size="25">Check fee discount notes, KYC rules, and supported regions.</text>
+  <g transform="translate(76 382)">
+    <rect width="238" height="132" rx="8" fill="#ffffff" stroke="#d7e0e7"/>
+    <rect width="238" height="10" fill="#f0b90b"/>
+    <text x="24" y="66" fill="#15202b" font-family="Inter, Arial, sans-serif" font-size="30">Binance</text>
+    <text x="24" y="104" fill="#148a78" font-family="Inter, Arial, sans-serif" font-size="22">Fee discount check</text>
+  </g>
+  <g transform="translate(346 382)">
+    <rect width="238" height="132" rx="8" fill="#ffffff" stroke="#d7e0e7"/>
+    <rect width="238" height="10" fill="#111111"/>
+    <text x="24" y="66" fill="#15202b" font-family="Inter, Arial, sans-serif" font-size="30">OKX</text>
+    <text x="24" y="104" fill="#148a78" font-family="Inter, Arial, sans-serif" font-size="22">Invite route</text>
+  </g>
+  <g transform="translate(616 382)">
+    <rect width="238" height="132" rx="8" fill="#ffffff" stroke="#d7e0e7"/>
+    <rect width="238" height="10" fill="#16d2b4"/>
+    <text x="24" y="66" fill="#15202b" font-family="Inter, Arial, sans-serif" font-size="30">Bitget</text>
+    <text x="24" y="104" fill="#148a78" font-family="Inter, Arial, sans-serif" font-size="22">KYC notes</text>
+  </g>
+  <g transform="translate(886 382)">
+    <rect width="238" height="132" rx="8" fill="#ffffff" stroke="#d7e0e7"/>
+    <rect width="238" height="10" fill="#275df2"/>
+    <text x="24" y="66" fill="#15202b" font-family="Inter, Arial, sans-serif" font-size="30">BitMart</text>
+    <text x="24" y="104" fill="#148a78" font-family="Inter, Arial, sans-serif" font-size="22">Region access</text>
+  </g>
+  <text x="76" y="590" fill="#148a78" font-family="Inter, Arial, sans-serif" font-size="27">cryptofreerebate.com</text>
+</svg>
