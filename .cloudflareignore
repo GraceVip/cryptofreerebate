@@ -1,0 +1,7 @@
+.git
+.github
+.idea
+.agents
+.DS_Store
+README.md
+skills-lock.json
