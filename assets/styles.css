@@ -332,7 +332,8 @@ h3 {
   color: var(--accent);
   font-size: 12px;
   font-weight: 800;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.02em;
+  line-height: 1.35;
   text-transform: uppercase;
 }
 
@@ -400,6 +401,10 @@ h3 {
 .stat-row span,
 .stat-total span {
   color: var(--muted);
+}
+
+.stat-row strong {
+  text-align: right;
 }
 
 .stat-total {
